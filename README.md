@@ -1,4 +1,4 @@
-Sure, here's the README in English with the added information about using Dask for parallel processing in data reading:
+
 
 ---
 
